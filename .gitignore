@@ -1,0 +1,5 @@
+.vscode
+assets/model_state_dict.bin
+*/__pycache__
+*/*/__pycache__
+venv
